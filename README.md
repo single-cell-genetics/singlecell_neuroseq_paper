@@ -2,6 +2,8 @@
 
 This repository contains scripts for data processing, analysis and figure generation using scRNA-Seq and bulk RNAseq data for our paper:
 
+Population-scale single-cell RNA-seq profiling across dopaminergic neuron differentiation
+
 ## Analysis scripts
 
 The following folders contain scripts for data processing and analysis.
