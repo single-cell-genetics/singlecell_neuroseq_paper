@@ -1,0 +1,101 @@
+{
+    "__default__" :
+    {
+        "memory" : "16000",
+        "n" : 1,
+        "queue" : "standard",
+        "name" : "SCNEUROASE.{rule}.{wildcards}",
+        "output" : "log",
+        "error" : "log"
+    },
+    "prepare_celltype_gwas_files" :
+    {
+        "memory" : "2000",
+        "n" : 1
+    },
+    "call_ase_cellsnp" :
+    {
+        "memory" : "2000",
+        "n" : 1
+    },
+    "merge_scanpy" :
+    {
+        "memory" : "50000",
+        "n" : 1
+    },
+    "pca_scanpy" :
+    {
+        "memory" : "78000",
+        "n" : 1
+    },
+    "run_harmony" :
+    {
+        "memory" : "50000",
+        "n" : 1
+    },
+    "cluster_cells_scanpy" :
+    {
+        "memory" : "72000",
+        "n" : 1
+    },
+    "add_metadata_to_scanpy_h5":
+    {
+        "memory" : "50000",
+        "n" : 1
+    },
+    "create_pseudobulk_dataframes":
+    {
+        "memory" : "72000",
+        "n" : 1
+    },
+    "create_donor_to_ase_file_mapping" :
+    {
+        "memory" : "2000",
+        "n" : 1
+    },
+    "donor_id_demuxlet" :
+    {
+        "memory" : "6000",
+        "n" : 1
+    },
+    "donor_id_demuxlet_search" :
+    {
+        "memory" : "18000",
+        "n" : 1
+    },
+    "summarise_donor_cluster_mapping" :
+    {
+        "memory" : "1500",
+        "n" : 1
+    },
+    "variance_decomposition" :
+    {
+        "memory" : "62000",
+        "n" : 1
+    },
+    "call_ase_gatk_low_thresh" :
+    {
+        "memory" : "13000",
+        "n" : 1
+    },
+    "seq_metadata_collect" :
+    {
+        "memory" : "2000",
+        "n" : 1
+    },
+    "picard_mark_dups" :
+    {
+        "memory" : "22000",
+        "n" : 1
+    },
+    "picard_qc_metrics" :
+    {
+        "memory" : "12000",
+        "n" : 1
+    },
+    "picard_mark_dups_10x" :
+    {
+        "memory" : "18000",
+        "n" : 1
+    },
+}

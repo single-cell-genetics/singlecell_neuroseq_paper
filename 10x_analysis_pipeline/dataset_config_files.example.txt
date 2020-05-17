@@ -1,0 +1,7 @@
+# List of yaml configuration files specifying the datasets to be generated.
+#  Lines can be commented out using '#'. Wildcards ('*') will be globbed to match sets of files matching a pattern.
+#/nfs/leia/research/stegle/dseaton/hipsci/singlecell_neuroseq/data/data_processed/pool1_17_subsample_v1/pool1_17_subsample_v1.yaml
+#/nfs/leia/research/stegle/dseaton/hipsci/singlecell_neuroseq/data/data_processed/pool1_13_D52_cellqc/pool1_13_D52_cellqc.yaml
+#/nfs/leia/research/stegle/dseaton/hipsci/singlecell_neuroseq/data/data_processed/pool1_13_noddd_30/pool1_13_noddd_30.yaml
+#/nfs/leia/research/stegle/dseaton/hipsci/singlecell_neuroseq/data/data_processed/lancaster_organoids/lancaster_organoids.yaml
+/nfs/leia/research/stegle/dseaton/hipsci/singlecell_neuroseq/data/data_processed/pool1_D11/pool1_D11.yaml
