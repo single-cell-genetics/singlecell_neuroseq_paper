@@ -1,8 +1,8 @@
 # Population-scale single-cell RNA-seq profiling across dopaminergic neuron differentiation
 
-This repository contains scripts for data processing, analysis and figure generation using scRNA-Seq and bulk RNAseq data for our preprint:
+This repository contains scripts for data processing, analysis and figure generation using scRNA-Seq and bulk RNAseq data for our paper:
 
-[Population-scale single-cell RNA-seq profiling across dopaminergic neuron differentiation](https://www.biorxiv.org/content/10.1101/2020.05.21.103820v1)
+[Population-scale single-cell RNA-seq profiling across dopaminergic neuron differentiation](https://www.nature.com/articles/s41588-021-00801-6)
 
 ## Analysis scripts
 
