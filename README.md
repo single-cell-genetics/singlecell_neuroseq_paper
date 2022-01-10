@@ -1,4 +1,4 @@
-[![doi 10.5281/zenodo.5055106](https://zenodo.org/badge/DOI/10.5281/zenodo.5055106.svg)](https://doi.org/10.5281/zenodo.5055106)
+[![doi 10.5281/zenodo.4651413](https://zenodo.org/badge/DOI/10.5281/zenodo.4651413.svg)](https://doi.org/10.5281/zenodo.4651413)
 
 # Population-scale single-cell RNA-seq profiling across dopaminergic neuron differentiation
 
